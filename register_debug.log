@@ -1,0 +1,10 @@
+2026-03-26 17:58:26 | user_number: 92414 | username: JOA | email: JOA@gmail.com
+Query: INSERT INTO users (user_number, username, password, email, role) VALUES ('92414', 'JOA', 'AlariaoTyrone05!', 'JOA@gmail.com', 'admin')
+Error:  | Errno: 0 | Affected: 1
+Result: true
+
+2026-03-26 18:01:30 | user_number: 11851 | username: JOAQUIN | email: tyronealariao06@gmail.com
+Query: INSERT INTO users (user_number, username, password, email, role) VALUES ('11851', 'JOAQUIN', 'AlariaoTyrone05!', 'tyronealariao06@gmail.com', 'admin')
+Error:  | Errno: 0 | Affected: 1
+Result: true
+

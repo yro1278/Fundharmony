@@ -1,0 +1,8 @@
+2026-03-13 03:51:39 - Email to: tyronealariao06@gmail.com | Subject: FundHarmony - Your OTP Code | Error: SMTP Error: Could not authenticate.
+2026-03-13 03:52:12 - Email to: tyronealariao06@gmail.com | Subject: FundHarmony - Your OTP Code | Error: SMTP Error: Could not authenticate.
+2026-03-13 04:01:32 - Email to: tyronealariao06@gmail.com | Subject: FundHarmony - Your OTP Code | Error: SMTP Error: Could not authenticate.
+2026-03-13 04:05:16 - Email to: tyronealariao06@gmail.com | Subject: FundHarmony - Your OTP Code | Error: SMTP Error: Could not authenticate.
+2026-03-13 04:06:10 - Email to: tyronealariao06@gmail.com | Subject: FundHarmony - Your OTP Code | Error: SMTP Error: Could not authenticate.
+2026-03-13 04:12:34 - Email to: tyronealariao06@gmail.com | Subject: FundHarmony - Your OTP Code | Error: SMTP Error: Could not authenticate.
+2026-03-16 18:17:32 - Email to: tyronealariao06@gmail.com | Subject: FundHarmony - Your OTP Code | Error: The following From address failed: tyronealariao06@gmail.com : MAIL FROM command failed,,0, SMTP server error: MAIL FROM command failed SMTP server error: MAIL FROM command failed
+2026-03-16 19:20:10 - Email to: tyronealariao06@gmail.com | Subject: FundHarmony - Your OTP Code | Error: SMTP Error: Could not connect to SMTP host. SMTP server error: QUIT command failed
